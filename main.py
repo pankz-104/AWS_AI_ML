@@ -7,7 +7,7 @@ ACCESS_KEY='ASIAVA26GUSM2GFNL37V'
 SECRET_KEY='IgU1lZbIOoSKHOe+sC991EETYJQDPtr3NGvXuX/N'
 SESSION_TOKEN='FwoGZXIvYXdzEHYaDKYNSzXQS6v/jEZY8SLYAeVXz3lPmSFEMAyfCLdEemZoJYRNgAmDjgw2qwkgl3BkIt6b2hRi7beXLJKxPGofx+1igsf/eFOoWq8/WVPQVRepZbEn9kBML2l3QAt4CBns6wH6Pkk0djd82miNdPOK9735Uwxk/QU5IfWhrzR6qBAnBzWsLaHZguABixPMICQWuW+BYvmXp0N+O8S29oG6/NJhDSpvEICLmzgJY8kL+sAAGtOOx0Jb98h9JOnjnzGwKOHc54vNDi82IQcadv/LMhYE32ymDGunjSSMZxtPDilUq7xi/4W+gSiQydz7BTItwO3PMSUDlm5bsVIgJ/dVh0shPbXw+wyA6jHGlaLg5cYkgUWAy7ajxHGSmy7C'
 
-photo = 'C:\\Users\\Pankaj\\PycharmProjects\\Rekognition\\Images\\sample1.jpg'
+photo = 'C:\\Users\\Pankaj\\PycharmProjects\\Rekognition\\Images\\child.jpg'
 
 # Sets up the boto3 for rekognition
 client = boto3.client('rekognition',
